@@ -39,3 +39,11 @@ const heroi2 = new heroi('Merlin', 150, 'mago');
 heroi2.atacar(); 
 //Saída: O mago atacou usando magia
 
+const heroi3 = new heroi('Shifu', 40, 'monge');
+heroi3.atacar(); 
+//Saída: O monge atacou usando artes marciais
+
+const heroi4 = new heroi('Naruto', 17, 'ninja');
+heroi4.atacar(); 
+//Saída: O ninja atacou usando shuriken
+
