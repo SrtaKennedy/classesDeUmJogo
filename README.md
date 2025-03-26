@@ -35,4 +35,7 @@ Ao final deve se exibir uma mensagem:
 - "o {tipo} atacou usando {ataque}"
   
 ex: mago atacou usando magia
-<br>guerreiro atacou usando espada
+<br>guerreiro atacou usando espada.
+
+**Tecnologia:**
+_JavaScript_
